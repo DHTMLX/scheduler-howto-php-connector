@@ -15,14 +15,14 @@ How to install **php_pdo**: https://www.php.net/manual/en/pdo.installation.php
 - clone or download the repository into the root folder of your web server (e.g. `htdocs` for Apache)
 
 ```
-$ git clone https://github.com/DHTMLX/scheduler-howto-php-connectors
-$ cd ./scheduler-howto-node
+$ git clone git@github.com:DHTMLX/scheduler-howto-php-connector.git
+$ cd ./scheduler-howto-php-connector
 ```
 
 - import database from **mysql_dump.sql**
 - update db connection settings in data/config.php
 
-- open `http://localhost/scheduler-howto-connector-php`
+- open `http://localhost/scheduler-howto-php-connector`
 
 ## Links
 
